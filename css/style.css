@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Eater', cursive;
+}
+h2{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.dropdown-menu a:hover{
+    background-color:green ;
+}
+.h3{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.hover:hover{
+    background-color: #3F729B;
+
+}
+
+.hover a:hover{
+    color:white;
+    text-decoration: none;
+}
